@@ -2,7 +2,7 @@
 <h3 align="center">A(n aspiring) developer from Brazil</h3>
 
 
-- 🌱 I’m currently learning **Java, JS, ExtJS.**
+- 🌱 I’m currently learning **C, C#, Java, JS, ExtJS.**
 
 - ⚡ Fun fact: **I love history.**
 
