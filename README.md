@@ -22,7 +22,7 @@ Em agosto de 2021 entrei para a Useall Software, onde trabalho com desenvolvimen
 
 <h3 align="center">Onde me encontrar:</h3>
 <p align="center">
-<a href="https://twitter.com/vinielias11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vini_elias11" height="30" width="40" /></a>
+<a href="https://twitter.com/vini_elias11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vini_elias11" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/viniciuseliasbarabas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="viniciuseliasbarabas" height="30" width="40" /></a>
 <a href="https://instagram.com/vinielias11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vinielias11" height="30" width="40" /></a>
  <a href="https://www.strava.com/athletes/28006632" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/strava-2.svg" alt="Vinicius Elias" height="30" width="40" /></a>
