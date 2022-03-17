@@ -2,7 +2,7 @@
 <h3 align="center">A(n aspiring) developer from Brazil</h3>
 
 
-- 🌱 I’m currently learning **Java, SpringBoot, ExtJS, Angular and ReactJS.**
+- 🌱 I’m currently learning **ReactJS, MongoDB, Node.js, Express**
 
 - ⚡ Fun fact: **I love history.**
 
