@@ -12,7 +12,7 @@
 
 <hr>
 
-<p>Tenho 19 anos, moro em Criciúma e atualmente estou fazendo o curso Ciência da Computação na UNESC. Meu interesse em programação surgiu há dois anos, mas comecei a programar <i>de verdade</i> apenas em 2021.<br><br>
+<p>Tenho 19 anos, moro em Criciúma e atualmente estou fazendo o curso Ciência da Computação na UNESC.
 Em agosto de 2021 entrei para a Useall Software, onde trabalho com desenvolvimento frontend utilizando o framework <b>ExtJS</b>.</p>
 
 <hr>
