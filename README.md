@@ -1,5 +1,5 @@
 <h1 align="center">Hi there👋, I'm Vinicius Elias</h1>
-<h3 align="center">A(n aspiring) developer from Brazil</h3>
+<h3 align="center">A developer from Brazil</h3>
 
 
 - 🌱 I’m currently learning **ReactJS, MongoDB, Node.js and Express**
@@ -12,7 +12,7 @@
 
 <hr>
 
-<p>Tenho 19 anos, moro em Criciúma e atualmente estou fazendo o curso Ciência da Computação na UNESC.
+<p>Tenho 20 anos, moro em Criciúma e atualmente estou fazendo o curso Ciência da Computação na UNESC.
 Em agosto de 2021 entrei para a Useall Software, onde trabalho com desenvolvimento frontend utilizando o framework <b>ExtJS</b>.</p>
 
 <hr>
