@@ -4,15 +4,9 @@
 
 - 🌱 I’m currently learning **ReactJS, MongoDB, Node.js and Express**
 
-- ⚡ Fun fact: **I love history.**
-
-- ⚡ Fun fact 2: **I cycle a lot.**
-
-- ⚡ Fun fact 3: **Iron Maiden is my passion.**
-
 <hr>
 
-<p>Tenho 20 anos, moro em Criciúma e atualmente estou fazendo o curso Ciência da Computação na UNESC.
+<p>Tenho 21 anos, moro em Criciúma e atualmente estou fazendo o curso Ciência da Computação na UNESC.
 Em agosto de 2021 entrei para a Useall Software, onde trabalho com desenvolvimento frontend utilizando o framework <b>ExtJS</b>.</p>
 
 <hr>
