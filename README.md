@@ -2,11 +2,11 @@
 <h3 align="center">A developer from Brazil</h3>
 
 
-- 🌱 I’m currently learning **ReactJS, MongoDB, Node.js and Express**
+- 🌱 I’m currently learning **ReactJS, Node.js, Java and Spring**
 
 <hr>
 
-<p>Tenho 21 anos, moro em Criciúma e atualmente estou fazendo o curso Ciência da Computação na UNESC.
+<p>Tenho 22 anos, moro em Criciúma e atualmente estou fazendo o curso Ciência da Computação na UNESC.
 Em agosto de 2021 entrei para a Useall Software, onde trabalho com desenvolvimento frontend utilizando o framework <b>ExtJS</b>.</p>
 
 <hr>
@@ -21,9 +21,7 @@ Em agosto de 2021 entrei para a Useall Software, onde trabalho com desenvolvimen
 
 <h3 align="center">Onde me encontrar:</h3>
 <p align="center">
-<a href="https://twitter.com/vini_elias11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vini_elias11" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/viniciuseliasbarabas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="viniciuseliasbarabas" height="30" width="40" /></a>
-<a href="https://instagram.com/viniielias" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vinielias11" height="30" width="40" /></a>
+    <a href="https://linkedin.com/in/viniciuseliasbarabas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="viniciuseliasbarabas" height="30" width="40" /></a>
 </p>
 
 <br>
